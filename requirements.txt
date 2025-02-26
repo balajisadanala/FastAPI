@@ -6,3 +6,5 @@ requests
 pandasai
 openai
 bamboo
+langchain-groq
+gunicorn
