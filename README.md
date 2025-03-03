@@ -20,7 +20,7 @@ This is a FastAPI application that interfaces with the Langchain Groq API to gen
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/balajisadanala/FastAPI.git
    cd your-repo
    ```
 
@@ -64,7 +64,7 @@ This is a FastAPI application that interfaces with the Langchain Groq API to gen
 curl -X POST "http://127.0.0.1:8000/generate" \
      -H "X-API-Key: your_api_key_here" \
      -H "Content-Type: application/json" \
-     -d '{"prompt": "Hello, world!"}'
+     -d '{"prompt": "Django or FastApi Which is best"}'
 ```
 
 ## Deployment
